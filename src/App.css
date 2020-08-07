@@ -1,0 +1,41 @@
+
+
+
+body {
+  background-color: #000000;
+  font-size: 20px;
+ color: #ebe7e1;
+  
+}
+
+.App-box{
+  position: absolute;
+  top: 35%;
+  left: 40%;
+  
+  
+}
+
+.input-text{
+  padding: 5px 5px 5px 5px;
+  margin-left: 10px;
+  
+}
+
+
+
+.App-logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 150px;
+ 
+}
+
+
+
+.App-title{
+  font-size: larger;
+ color: #F9DDA4;
+}
